@@ -39,6 +39,7 @@ Express middleware packages used:
 
 
 Default Users:
+
 Username: User1
 Password: Password1
 Students: John Doe, grade of 75
