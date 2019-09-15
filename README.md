@@ -30,7 +30,6 @@ The reason why I chose to use bootstrap is that I saw an immediate use for its u
 
 Express middleware packages used:
 - body-parser, for handling requests
-- express-session, for use in keeping track of a user session's for passport
 - passport using the local strategy with passport-local,
 - response-time, which allows you to see the time between each request and response in the networks tab of console, with header x-response-time
 - helmet, which adds various security features in server headers, such as not allowing for the project to be displayed outside of its own window, and frameguard to prevent clickjacking.
@@ -60,7 +59,7 @@ An example table might be as follows:
 
 ## Technical Achievements
 - **Tech Achievement 1**: Extended my sqllite database from the previous assignment to use a file, rather than persisting in memory.
-- **Tech Achievement 2**: Using 9 expressjs middleware packages, (more if you count passport and passport-local as seperate, along with the node package path needed for serve-favicon). 
+- **Tech Achievement 2**: Using 8 expressjs middleware packages, (more if you count passport and passport-local as seperate, along with the node package path needed for serve-favicon). 
 I wanted to ensure that my site had some basic features in security and debug information, so I added helmet for some security related response headers, and the packages morgan and response-time for console and network information. serve-favicon and express-slash are convenient ways to handle the favicon from a local file and URL entries missing the ending slash.
 
 ### Design/Evaluation Achievements
