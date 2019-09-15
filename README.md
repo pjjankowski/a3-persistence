@@ -39,12 +39,15 @@ Express middleware packages used:
 
 
 Default Users:
-     Username: User1
-     Password: Password1
-     Students: John Doe, grade of 75
-     Username: charlie
-     Password: charliee
-     Students: John Doe, grade of 81, and Mary Sue, grade of 99.9
+Username: User1
+Password: Password1
+Students: John Doe, grade of 75
+
+Username: charlie
+Password: charliee
+Students: John Doe, grade of 81, and Mary Sue, grade of 99.9
+
+
 http://a3-pjjankowski.glitch.me
 
 An example table might be as follows:
