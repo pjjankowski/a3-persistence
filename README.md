@@ -60,7 +60,7 @@ An example table might be as follows:
 
 ## Technical Achievements
 - **Tech Achievement 1**: Extended my sqllite database from the previous assignment to use a file, rather than persisting in memory.
-- **Tech Achievement 2**: Using 8 expressjs middleware packages, (more if you count passport and passport-local as seperate, along with the node package path needed for serve-favicon). 
+- **Tech Achievement 2**: Using 9 expressjs middleware packages, (more if you count passport and passport-local as seperate, along with the node package path needed for serve-favicon). 
 I wanted to ensure that my site had some basic features in security and debug information, so I added helmet for some security related response headers, and the packages morgan and response-time for console and network information. serve-favicon and express-slash are convenient ways to handle the favicon from a local file and URL entries missing the ending slash.
 
 ### Design/Evaluation Achievements
