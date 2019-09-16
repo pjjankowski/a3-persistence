@@ -29,7 +29,8 @@ The reason why I chose to use bootstrap is that I saw an immediate use for its u
 
 
 Express middleware packages used:
-- body-parser, for handling requests
+- body-parser, for parsing requests as JSON
+- express-session, for enabling user sessions to be maintained, such as on refreshing the page
 - passport using the local strategy with passport-local,
 - response-time, which allows you to see the time between each request and response in the networks tab of console, with header x-response-time
 - helmet, which adds various security features in server headers, such as not allowing for the project to be displayed outside of its own window, and frameguard to prevent clickjacking.
