@@ -24,7 +24,7 @@ Database used: Sqllite, with two tables in student.db, for user logins and stude
 The reason that I used sqllite is that I had already used it for my last project, and wanted to extend my usage of it further, this time adding a file for the database, rather than storing it in memory.
 
 CSS Framework used: Bootstrap
-The additional styling modifications that I used are all contained in style.css, specfically in hiding certain elements from users, (author and the form for logged in users).
+There are no additional styling modifications made by me for this project beyond what Bootstrap has provided.
 The reason why I chose to use bootstrap is that I saw an immediate use for its utility classes in simplifying my website's styling, and that its aesthetic is simple, without a theming that could be distracting. 
 
 
